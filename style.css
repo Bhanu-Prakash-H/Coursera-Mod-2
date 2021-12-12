@@ -16,7 +16,7 @@ p {
   position: relative;
 }
 #chicken {
-  background-color: #fa8989
+  background-color: #fa8989;
   position: absolute;
   top: 0;
   right: 0;
@@ -41,7 +41,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 #sushi {
- background-color:#edcc6d ;
+ background-color:#edcc6d;
   position: absolute;
   top: 0;
   right: 0;
