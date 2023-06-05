@@ -1,6 +1,6 @@
 # Responsive 3 Columns - Coursera Course Module 2 Assignment
 
-https://bhanu-prakash-h.github.io/Coursera-Mod-2/ Click here to view my Project 
+To view Project Click here 👉 https://bhanu-prakash-h.github.io/Coursera-Mod-2/ 
 
 The "Responsive3Columns" GitHub repository hosts the solution for the Module 2 assignment of the "HTML, CSS, and JavaScript for Developers" course on Coursera. The assignment involves creating a responsive layout with 3 columns using HTML, CSS, and JavaScript, ensuring optimal display on mobile, tablet, and desktop devices.
 
